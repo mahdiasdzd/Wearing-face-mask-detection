@@ -31,5 +31,6 @@ Google Drive Link:().
 
 ## Results
 Performance comparision on face-mask-detection dataset.
-![SSD Result](https://user-images.githubusercontent.com/61879630/210389600-40692e5e-a425-413f-91e6-8e681f2d1532.png)
+![YOLOv4 Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/yv4.jpg)
 
+![SSD Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/mobilnet.jpg)
