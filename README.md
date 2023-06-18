@@ -28,3 +28,6 @@ Google Drive Link:().
     SSD.ipynb
     YOLOv4.ipynb
 4) Test trained model with this dataset in in IPYNB too.
+
+## Results
+Performance comparision on Synapse Multi-Organ Segmentation dataset.
