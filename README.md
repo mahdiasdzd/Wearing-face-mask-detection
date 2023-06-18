@@ -34,3 +34,5 @@ Performance comparision on face-mask-detection dataset.
 ![YOLOv4 Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/yv4.jpg)
 
 ![SSD Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/mobilnet.png)
+
+![Final Result](![SSD Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/mAP.png))
