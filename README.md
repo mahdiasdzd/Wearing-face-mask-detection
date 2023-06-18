@@ -30,4 +30,6 @@ Google Drive Link:().
 4) Test trained model with this dataset in in IPYNB too.
 
 ## Results
-Performance comparision on Synapse Multi-Organ Segmentation dataset.
+Performance comparision on face-mask-detection dataset.
+![SSD Result](https://user-images.githubusercontent.com/61879630/210389600-40692e5e-a425-413f-91e6-8e681f2d1532.png)
+
