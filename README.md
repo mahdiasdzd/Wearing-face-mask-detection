@@ -40,4 +40,4 @@ Performance comparision on face-mask-detection dataset.
 
 
 ## Final Result
-![](SSD Result](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/mAP.png)
+![](https://github.com/mahdiasdzd/Wearing-face-mask-detection/blob/main/mAP.png)
